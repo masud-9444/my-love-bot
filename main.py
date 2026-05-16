@@ -6,7 +6,7 @@ import os
 
 # आपकी बिल्कुल नई टोकन और सही एपीआई की
 BOT_TOKEN = "8812168508:AAFeL6JG2E-Y7GGL89g4tq5B46fRLp0pFug"
-GEMINI_API_KEY = "AIzaSyCk7h8FGokotQwrq2SwlptitOQ2BO2LGkM"
+GEMINI_API_KEY = "AIzaSyCFZraV4BnFGF8tO-FWpcPelbngpQ2IaHM"
 
 # बॉट्स को इनिशियलाइज़ करना
 bot = telebot.TeleBot(BOT_TOKEN)
